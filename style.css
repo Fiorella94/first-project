@@ -1,0 +1,117 @@
+#image0{
+    position: relative;
+    display: block;
+}
+h1{
+    position: absolute;
+    z-index: 100;
+    top: 80%;
+    left: 10%;
+    right: 60%;
+    width: 50%;
+    font-weight: normal;
+    color: white;
+    font-size: 40px;
+}
+h3{
+    position: absolute;
+    z-index: 999;
+    top: 100%;
+    left: 10%;
+    right: 60%;
+    width: 50%;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+h4{
+    font-weight: normal;
+}
+body{
+    text-align: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 20px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#firsttext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#secondtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#thirdtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#fourthtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#fifthtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#sixthtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#seventhtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#eighttext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#ninethtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#tenthtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#eleventhtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#twelvthtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#therteenthtext{
+    font-size: 12px;
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0%;
+}
